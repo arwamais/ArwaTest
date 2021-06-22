@@ -1,3 +1,2 @@
 # ArwaTest
-Testing How Repository Work
-I am adding some text to the branch
+This is the first repository that I created for educational purposes
